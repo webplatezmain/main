@@ -139,7 +139,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -334,7 +334,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -690,7 +690,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -926,7 +926,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1215,7 +1215,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1378,7 +1378,7 @@
             ".btn": {
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "14px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1447,7 +1447,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "Your Professional Website",
+          "title": "Your Professional Website<br>Built by Experts",
           "formTitle": "SUBSCRIBE",
           "formSubtitle": "We'll give you better version of your current homepage at no cost within 24 hours.",
           "text": "We design, develop, and manage your professional website.",
