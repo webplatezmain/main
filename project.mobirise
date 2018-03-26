@@ -166,7 +166,7 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -361,7 +361,7 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -717,7 +717,7 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -953,7 +953,7 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1242,7 +1242,7 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1405,9 +1405,8 @@
               "src": "@PROJECT_PATH@/assets/images/77logo-210x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "index.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
