@@ -9,12 +9,12 @@
 		<loc>http://webplatez.com/Pricing.html</loc>
 	</url>
 	<url>
-		<loc>http://webplatez.com/home.html</loc>
-	</url>
-	<url>
 		<loc>http://webplatez.com/FAQ.html</loc>
 	</url>
 	<url>
 		<loc>http://webplatez.com/Shop.html</loc>
+	</url>
+	<url>
+		<loc>http://webplatez.com/index.html</loc>
 	</url>
 </urlset>
