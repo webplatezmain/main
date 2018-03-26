@@ -1408,8 +1408,8 @@
             "bgColor": "#2e2e2e",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/uNCr7NdOJgw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+              "url": "https://www.youtube.com/embed/pcMV-aS2K5A?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=pcMV-aS2K5A",
               "width": 1280,
               "height": 720
             },
@@ -1491,13 +1491,13 @@
           "title": "Accordion FAQ",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseOne_3\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is WebPlatez?</a>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseTwo_3\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_3\" data-core=\"\" href=\"#collapseThree_3\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_5\" data-core=\"\" href=\"#collapseThree_5\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why WebPlatez?</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text1": "WebPlatez is a tech company focused on creating lead-generating websites for small to medium sized businesses.",
           "text2": "WebPlatez is perfect for anyone who wants to have a functional website without that the trouble of setting it up themselves.",
-          "text3": "<p>We specialize in creating websites focused on user experiencee meaning not only will websites look great, they'll have a better chance of getting customers to your business.&nbsp;</p><br><p>Our guarantee is that if you're not satisfied after 1 month of service, you get your money back.</p>",
+          "text3": "<p>We specialize in creating websites focused on user experience. Meaning not only will websites look great, they'll have a better chance of getting customers to your business.&nbsp;</p><br><p>Our guarantee is that if you're not satisfied after 1 month of service, you get your money back.</p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -1520,16 +1520,16 @@
             "paddingTop": 3,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extmsg-box2-bg.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": 0.1
           },
           "title": "Websites for&nbsp;",
@@ -1549,12 +1549,14 @@
             },
             "B": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#efefef"
             },
             "SPAN": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           }
         },
