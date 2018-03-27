@@ -1317,8 +1317,8 @@
         "main": true,
         "title": "Webplatez - Your Professional Website",
         "meta_descr": "We design, develop and manage your professional website.",
-        "header_custom": "",
-        "footer_custom": "",
+        "header_custom": "<script id=\"bx24_form_inline\" data-skip-moving=\"true\">\n        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;\n                (w[b].forms=w[b].forms||[]).push(arguments[0])};\n                if(w[b]['forms']) return;\n                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());\n                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n        })(window,document,'https://webplatez.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');\n\n        b24form({\"id\":\"1\",\"lang\":\"en\",\"sec\":\"mspv7b\",\"type\":\"inline\"});\n</script>",
+        "footer_custom": "<script data-skip-moving=\"true\">\n        (function(w,d,u){\n                var s=d.createElement('script');s.async=1;s.src=u+'?'+(Date.now()/60000|0);\n                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n        })(window,document,'https://cdn.bitrix24.com/b6444663/crm/site_button/loader_3_u1gsn3.js');\n</script>",
         "html_before": ""
       },
       "components": [
@@ -1524,7 +1524,7 @@
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "WebPlatez is a tech company focused on creating lead-generating websites for small to medium sized businesses.",
+          "text1": "We are a tech company focused on creating lead-generating websites for small to medium sized businesses.",
           "text2": "WebPlatez is perfect for anyone who wants to have a functional website without that the trouble of setting it up themselves.",
           "text3": "<p>We specialize in creating websites focused on user experience. Meaning not only will websites look great, they'll have a better chance of getting customers to your business.&nbsp;</p><br><p>Our guarantee is that if you're not satisfied after 1 month of service, you get your money back.</p>",
           "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
@@ -1579,7 +1579,7 @@
             "B": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-family": "'Raleway', sans-serif",
